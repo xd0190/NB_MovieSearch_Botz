@@ -27,17 +27,17 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ 
 📢 sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/abmoviehouse>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/Sujan_Ch>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
+🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/Ab_Admin0>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Private Pʀᴏᴊᴇᴄᴛ Bʏ @Sujan_Ch
+    SOURCES_TXT = """Tʜɪs Is Aɴ Private Pʀᴏᴊᴇᴄᴛ Bʏ @Ab_Admin0
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Sujan_Ch>𝚂𝚄𝙹𝙰𝙽</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Ab_Admin0>ᴀᴍɪʀ ʙɪꜱᴛᴀ</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 Pʀᴏᴊᴇᴄᴛ Bʏ @Sujan_Ch</b>
+    SOURCE_TXT = """Tʜɪs Is Aɴ 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 Pʀᴏᴊᴇᴄᴛ Bʏ @Ab_Admin0</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Sujan_Ch>𝚂𝚄𝙹𝙰𝙽</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Ab_Admin0>ᴀᴍɪʀ ʙɪꜱᴛᴀ</a></b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
