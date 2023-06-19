@@ -22,22 +22,22 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
     ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/AB_MovieSearch_bot>ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Ab_Admin0>Amir Bista</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/nawab_me>SAHID NAWAB</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ 
-📢 sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/abmoviehouse>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/Ab_Admin0>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
+📢 sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/nawabsupport>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/nawab_me>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Private Pʀᴏᴊᴇᴄᴛ Bʏ @Ab_Admin0
+    SOURCES_TXT = """Tʜɪs Is Aɴ Private Pʀᴏᴊᴇᴄᴛ Bʏ @nawab_me
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Ab_Admin0>ᴀᴍɪʀ ʙɪꜱᴛᴀ</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/nawab_me>SAHID NAWAB</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 Pʀᴏᴊᴇᴄᴛ Bʏ @Ab_Admin0</b>
+    SOURCE_TXT = """Tʜɪs Is Aɴ 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 Pʀᴏᴊᴇᴄᴛ Bʏ @nawab_me</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Ab_Admin0>ᴀᴍɪʀ ʙɪꜱᴛᴀ</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/nawab_me>SAHID NAWAB</a></b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
@@ -67,13 +67,13 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
     MANUELFILTER_TXT = """<b>Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Usɪɴɢ Tʜɪs Bᴏᴛ</b> 😌 🔋
 
-<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 » @abmoviehouse</b>
+<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 » @nawab_me0</b>
 
 <b>Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Mᴏᴠɪᴇs Oʀ Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴩᴇʟʟɪɴɢ</b>
 
 <b>Aɴᴅ Bᴏᴛ Wɪʟʟ Sᴇɴᴅ Yᴏᴜ Asᴋᴇᴅ Fɪʟᴇ</b>
 
-<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/Ab_Admin0>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
+<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/nawab_me0>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
 
     CONTACT_TXT = """<b>
 <b>»» ° Oɴʟʏ Cᴏɴᴛᴀᴄᴛ Fᴏʀ Pᴀɪᴅ Wᴏʀᴋs / Pʀᴏʙʟᴇᴍ / Dᴏᴜʙᴛ / Cᴏʟʟᴀʙ / Hᴇʟᴩ °</b>
