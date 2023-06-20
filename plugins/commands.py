@@ -44,8 +44,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f"https://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/+ED0Ea6IScK4wYTE1'),
-            InlineKeyboardButton('🤖 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁  🔍', url='https://t.me/Ab_Admin0')
+            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/nawab_me0'),
+            InlineKeyboardButton('🤖 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁  🔍', url='https://t.me/nawab_me')
             ],[
             InlineKeyboardButton('😅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 😊', callback_data='sources')
             ],[
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f"https://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/+ED0Ea6IScK4wYTE1'),
-            InlineKeyboardButton('🤖 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁  🔍', url='https://t.me/Ab_Admin0')
+            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/nawab_me0'),
+            InlineKeyboardButton('🤖 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁  🔍', url='https://t.me/nawab_me')
             ],[
             InlineKeyboardButton('😅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 😊', callback_data='sources')
             ],[
